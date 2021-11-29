@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53353" started-at="2021-11-22T12:37:53 IST" finished-at="2021-11-22T12:38:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53353" started-at="2021-11-22T12:37:53 IST" finished-at="2021-11-22T12:38:46 IST">
+      <class name="com.testcases.SigninPageTest">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="Reportsetup" is-config="true" duration-ms="2039" started-at="2021-11-22T12:37:53 IST" finished-at="2021-11-22T12:37:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setup" is-config="true" duration-ms="10152" started-at="2021-11-22T12:37:55 IST" finished-at="2021-11-22T12:38:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateAddressDisplayTest()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="validateAddressDisplayTest" duration-ms="9070" started-at="2021-11-22T12:38:05 IST" finished-at="2021-11-22T12:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddressDisplayTest -->
+        <test-method status="PASS" signature="setupend()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setupend" is-config="true" duration-ms="908" started-at="2021-11-22T12:38:14 IST" finished-at="2021-11-22T12:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupend -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setup" is-config="true" duration-ms="8088" started-at="2021-11-22T12:38:15 IST" finished-at="2021-11-22T12:38:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLoginTest()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="validateLoginTest" duration-ms="8675" started-at="2021-11-22T12:38:23 IST" finished-at="2021-11-22T12:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="setupend()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setupend" is-config="true" duration-ms="1079" started-at="2021-11-22T12:38:32 IST" finished-at="2021-11-22T12:38:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupend -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setup" is-config="true" duration-ms="9968" started-at="2021-11-22T12:38:33 IST" finished-at="2021-11-22T12:38:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="validateTitleTest" duration-ms="879" started-at="2021-11-22T12:38:43 IST" finished-at="2021-11-22T12:38:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method status="PASS" signature="setupend()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="setupend" is-config="true" duration-ms="877" started-at="2021-11-22T12:38:44 IST" finished-at="2021-11-22T12:38:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupend -->
+        <test-method status="PASS" signature="GenerateReport()[pri:0, instance:com.testcases.SigninPageTest@5bcea91b]" name="GenerateReport" is-config="true" duration-ms="1437" started-at="2021-11-22T12:38:45 IST" finished-at="2021-11-22T12:38:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+      </class> <!-- com.testcases.SigninPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
